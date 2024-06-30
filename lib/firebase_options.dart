@@ -64,6 +64,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '405678533869',
     projectId: 'nbsolutions-1e5cc',
     storageBucket: 'nbsolutions-1e5cc.appspot.com',
+    androidClientId: '405678533869-votjk3h2jkvlp8103u70lr6uolrcvmev.apps.googleusercontent.com',
+    iosClientId: '405678533869-2hdnef0e1lmu15qrvn1ir2d89s5f3rmh.apps.googleusercontent.com',
     iosBundleId: 'com.example.nbSolutions',
   );
 
@@ -73,6 +75,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '405678533869',
     projectId: 'nbsolutions-1e5cc',
     storageBucket: 'nbsolutions-1e5cc.appspot.com',
+    androidClientId: '405678533869-votjk3h2jkvlp8103u70lr6uolrcvmev.apps.googleusercontent.com',
+    iosClientId: '405678533869-2hdnef0e1lmu15qrvn1ir2d89s5f3rmh.apps.googleusercontent.com',
     iosBundleId: 'com.example.nbSolutions',
   );
 
@@ -85,5 +89,4 @@ class DefaultFirebaseOptions {
     storageBucket: 'nbsolutions-1e5cc.appspot.com',
     measurementId: 'G-RZSLEDEPFN',
   );
-
 }
